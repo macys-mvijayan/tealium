@@ -1,3 +1,3 @@
 (function(){
-    console.log("Message from gitHub repo - QA");
+    console.log("Message from gitHub repo DEMO - QA");
 })();
